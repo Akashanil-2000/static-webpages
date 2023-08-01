@@ -1,0 +1,42 @@
+.p{
+    font-family: arial;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.video-title{  
+    font-size: 20px;
+    font-weight: bold;
+    width: 350;
+    line-height: 24px;
+    margin-bottom: 6px;
+}
+.video-details{
+    color: gray;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.video-author{
+    color: gray;
+    font-size: 15px;
+}
+.video-matter{
+    color: gray;
+    font-size: 15px;
+    width: 290;
+    line-height: 20px;
+    margin-bottom: 100px;
+}
+.shopping{
+    background-color: red;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    text-align: center;
+}
+
+.shopnow{
+    cursor: pointer;
+}
+.shopnow :hover{
+    text-decoration: underline;
+}
